@@ -34,7 +34,6 @@ plugins = [
   "nomad-ebsd-parser @ git+https://github.com/AddMorePower/nomad-EBSD_parser.git@v0.3.0",
   "comsol-parser @ git+https://github.com/AddMorePower/nomad-COMSOL_parser.git@v0.1.0",
   "nomad-north-jupyter>=0.2.5",
-  "nomad-FAIR>-1.4.2",
   "nomad-gui==2.0.0b1"
   ]
 jupyter = ["jupyter-events"]
